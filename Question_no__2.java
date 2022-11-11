@@ -1,7 +1,7 @@
 package ThursdayLab_11_11;
 
 import java.util.Scanner;
-
+// Write a program to except Name,Rollnumber and Marks (To calculate the grade & percentage). 
 public class Question_no__2 {
 	//Instance variable.
 	String name;
