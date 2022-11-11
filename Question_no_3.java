@@ -1,7 +1,7 @@
 package ThursdayLab_11_11;
 
 import java.util.Scanner;
-
+//Write a programe to accept array size and value from the user & find the Greater number,Smaller number,Display number in ascending and descending?
 public class Question_no_3 {
 // Instance variable.......
 	int i,j,temp,size;
