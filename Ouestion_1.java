@@ -1,7 +1,7 @@
 package ThursdayLab_11_11;
 
 import java.util.Scanner;
-
+//Write a aprograme to performe a swapping of two number with third variable and with out third variable?
 public class Ouestion_1 {
 	int num1,num2,temp;//Instance variable.....
 	public static void main(String[] args) {
